@@ -1,2 +1,5 @@
+ii
 hello guys
-all git comands RE VERY IMPORTANT
+all git comands RE VERY IMPORTANT.
+jahsfkjdju:wq
+
